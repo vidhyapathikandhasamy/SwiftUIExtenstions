@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUIExtenstions",
     platforms: [
-           .iOS(.v13),      // Add the minimum iOS version here
+           .iOS(.v16),      // Add the minimum iOS version here
            .macOS(.v10_15),
     ],
     products: [

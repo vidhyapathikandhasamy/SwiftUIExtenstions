@@ -8,7 +8,7 @@
 import SwiftUI
 
 @available(macOS 13, *)
-@available(iOS 15, *)
+@available(iOS 16, *)
 struct CurrencyTextView: View {
     
     @State private var text: Double
